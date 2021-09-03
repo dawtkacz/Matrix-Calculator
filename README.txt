@@ -1,5 +1,5 @@
 1938321 Dawid Tkaczyk dawid.tkaczyk@ucdconnect.ie
-Arguments specified in assignment are input as command line arguments when running server and client
+Arguments specified are input as command line arguments when running server and client
 
 
 to compile iclient.c:
